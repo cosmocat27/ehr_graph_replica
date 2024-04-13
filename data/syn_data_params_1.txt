@@ -1,0 +1,10 @@
+Prevalence  0.3
+AgeLower  18
+AgeUpper  70
+MaternalWeight  0.5
+AgeEffect 0.1
+SexEffect 0.1
+Herritable  0.2
+nGeneration 3
+nIndividual 50000
+OutPrefix TestOut
