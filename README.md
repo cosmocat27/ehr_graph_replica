@@ -6,3 +6,4 @@ Contains the following files:
 * A2_results: results of age, sex, and family history MLP
 * A3_results: results of age, sex, and graph connectivity MLP
 * G2_results: results of the graph based model with longitudinal data (main model)
+* ipynb notebook containing the report
