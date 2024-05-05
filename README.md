@@ -11,3 +11,4 @@ Contains the following files:
 To run the code:
 * Run the notebook DL4H_Team_154.ipynb in a Google Colab Python 3 environment.
 * Make sure to run the setup step in the notebook to download files and install packages.
+* The data and model checkpoints needed to run the notebook are pulled in from Github.
